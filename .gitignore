@@ -1,1 +1,6 @@
+# Editor
 .idea
+
+# Terraform
+**.terraform/
+**.lock.hcl
